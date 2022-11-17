@@ -1,0 +1,43 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+.container {
+  width: 260px;
+  background-color: white;
+  padding: 15px 15px;
+  border-radius: 4%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  /* TO CENTER THE WHOLE DIV */
+  margin: 0 auto;
+}
+
+.qr-code {
+  width: 260px;
+  border-radius: 2%;
+  margin-bottom: 1rem;
+}
+
+.heading {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  padding: 1%;
+  margin-bottom: 1rem;
+}
+
+.sub-heading {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  padding: 1%;
+  margin-bottom: 1rem;
+}
+
