@@ -16,7 +16,12 @@ body {
   border-radius: 4%;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   /* TO CENTER THE WHOLE DIV */
-  margin: 0 auto;
+  margin: 0 auto;  
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  position: relative;
+  top: 10rem;
 }
 
 .qr-code {
